@@ -7,3 +7,5 @@ Introduction
 - Review movies
 - Find favorite movies with category or theater
 - Admin dashboard
+
+**THIS PROJECT IS ONLY TO SHOWCASE MY PROJECTS CREATED, PLEASE DO NOT COPY, MODIFY OR REDISTRIBUTE THE CODINGS**
