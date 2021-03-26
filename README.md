@@ -1,7 +1,7 @@
 Introduction
 ============
 
-**Features**
+## Features
 - Add movies to database
 - Add available theaters
 - Review movies
